@@ -4,8 +4,8 @@
 3. I created the repository based off of a preexisting github repo. 
 4. To clone this repository, I opened the destop application and selected clone repo.
 
-#About Me
-##My Interests
+#About Me  
+##My Interests  
 My hobbies include 
 * Working out. It boosts my mood overall and not only makes me physically better but also mentally.
 * Cooking. It is one of my biggest stress relievers as I am able to focus on one thing, and that is making the best dish.
