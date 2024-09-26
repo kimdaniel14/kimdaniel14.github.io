@@ -2,7 +2,9 @@
 flowchart TD
 
     Start[Start] --> A[Set range for guessing: low=1, high=100]
+    This will be the parameters of my game.
     A --> B[Generate random number between low and high]
+    THis will be the number that the player will have to guess
     B --> C[Initialize guessCount = 0]
     C --> D[Prompt user to imput a guess]
     D --> E{Is the user's guess correct?}
