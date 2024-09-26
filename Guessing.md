@@ -1,3 +1,4 @@
+'''Mermaid
 flowchart TD
 
     Start[Start] --> A[Set range for guessing: low=1, high=100]
@@ -20,3 +21,4 @@ flowchart TD
     L --> J
 
     K -- No --> D
+'''
