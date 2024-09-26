@@ -1,4 +1,3 @@
-***mermaid
 flowchart TD
   Start([Start]) --> A[Set range for guessing: low = 1, high = 100]
   A --> B[Generate random number between low and high]
